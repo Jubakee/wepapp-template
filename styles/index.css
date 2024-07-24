@@ -1,0 +1,4 @@
+.scrollable-element {
+    overflow-y: scroll;
+    font-size: 5rem;
+  }
